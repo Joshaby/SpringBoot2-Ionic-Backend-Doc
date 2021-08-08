@@ -1,0 +1,15 @@
+com.nelioalves.cursomc
+com.nelioalves.cursomc.config
+com.nelioalves.cursomc.domain
+com.nelioalves.cursomc.domain.enums
+com.nelioalves.cursomc.dto
+com.nelioalves.cursomc.repositories
+com.nelioalves.cursomc.resources
+com.nelioalves.cursomc.resources.exceptions
+com.nelioalves.cursomc.resources.utils
+com.nelioalves.cursomc.security
+com.nelioalves.cursomc.security.util
+com.nelioalves.cursomc.services
+com.nelioalves.cursomc.services.exceptions
+com.nelioalves.cursomc.services.utils
+com.nelioalves.cursomc.services.validation
